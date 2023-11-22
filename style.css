@@ -1,0 +1,17 @@
+.MSG {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #07a30f; /* Зеленый цвет фона */
+    color: white; /* Белый цвет текста */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.MSG:hover {
+    background-color: #45a049;
+}
+
+body {
+    background-color: rgb(18, 45, 136);
+}

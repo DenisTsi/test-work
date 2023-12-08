@@ -9,3 +9,11 @@ var myButton = document.querySelector('.MSG');
 // Добавляем обработчик события click
 myButton.addEventListener('click', sendAlert);
 
+
+
+
+
+
+
+
+
